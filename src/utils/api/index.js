@@ -2,7 +2,9 @@
  * Defines the base URL for the API.
  * The default values is overridden by the `API_BASE_URL` environment variable.
  */
-const API_BASE_URL = 'https://flashcard-thinkful-gmalx4o26-hyder.vercel.app'
+// const API_BASE_URL = 'https://flashcard-thinkful-gmalx4o26-hyder.vercel.app'
+const API_BASE_URL = '123'
+
 
 /**
  * Defines the default headers for these functions to work with `json-server`
